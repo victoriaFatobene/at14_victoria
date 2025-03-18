@@ -1,9 +1,12 @@
 Nele, o jogador é um segurança noturno de um restaurante infantil dos Estados Unidos, conhecido por ter robôs de animais antropomorfizados. Não sabemos quem é o segurança e quais são suas motivações. Tampouco sabíamos, ao aceitar o emprego, que esses mascotes têm vida própria e assassinaram os seguranças anteriores. O objetivo, portanto, é sobreviver às tais cinco noites do título.
 
-No Freddy Fazbear's Pizza, robôs animados fazem a festa das crianças durante o dia. Mas, quando chega a noite, eles se transformam em assassinos psicopatas.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis fringilla id ligula in efficitur. Vestibulum a fermentum nisl, imperdiet lobortis nisl. Donec finibus non urna id tristique. Ut luctus elit in turpis iaculis, id sodales enim pulvinar. Sed et consequat sem. Vivamus laoreet egestas arcu, eu pharetra nisi tempus dignissim. Donec vehicula consequat imperdiet. Curabitur sed volutpat nisi. Quisque turpis velit, rhoncus non elit id, dignissim rhoncus lectus. Cras eleifend faucibus imperdiet.
+esta linha deve ser alterada
+esta também
+para que sejam gerados conflitos
+ok
 
-Phasellus a libero eu tellus tincidunt condimentum et quis magna. Nunc egestas magna sit amet scelerisque cursus. Nunc ac vestibulum arcu. Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse eget erat dolor. Sed fermentum ligula vel sapien feugiat ultrices. Vivamus vestibulum ut augue nec rhoncus. Sed imperdiet tristique augue, sit amet eleifend ex. Maecenas posuere elementum viverra. Sed auctor metus eu dignissim condimentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+ Suspendisse potenti. Cras consequat sem sem. Fusce ultrices, tortor vitae lacinia auctor, lacus metus tincidunt velit, a porttitor ligula nisl id felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. .
 
-Pellentesque et massa a purus pretium sollicitudin. Pellentesque ut turpis eros. Vivamus porta, lorem nec pellentesque facilisis, lacus nisi hendrerit lorem, nec ultricies ligula justo et nunc. Aliquam quam elit, pharetra et nibh ac, sodales tincidunt nisi. Suspendisse facilisis, enim quis tempus lacinia, nisl justo mattis nisl, et tincidunt lacus ante in felis. Curabitur et tellus in nisi faucibus tristique vitae in mauris. Integer ac velit in sapien interdum ultrices vitae eu nibh. Suspendisse fringilla nisl risus, et accumsan libero sagittis vitae. Suspendisse interdum vulputate orci. Curabitur placerat vel diam eget venenatis. Nunc sagittis enim nulla, non auctor arcu fringilla elementum.
+Pellentesque et massa a purus pretium sollicitudin. Pellentesque ut turpis eros. Vivamus porta, lorem nec pellentesque facilisis, lacus nisi hendrerit lorem, nec ultricies ligula justo et nunc. Aliquam quam elit, pharetra et nibh ac, sodales tincidunt nisi. 
