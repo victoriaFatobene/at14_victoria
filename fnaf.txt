@@ -2,6 +2,11 @@ Nele, o jogador é um segurança noturno de um restaurante infantil dos Estados 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
+esta linha deve ser alterada
+esta também
+para que sejam gerados conflitos
+ok
+
  Suspendisse potenti. Cras consequat sem sem. Fusce ultrices, tortor vitae lacinia auctor, lacus metus tincidunt velit, a porttitor ligula nisl id felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. .
 
 Pellentesque et massa a purus pretium sollicitudin. Pellentesque ut turpis eros. Vivamus porta, lorem nec pellentesque facilisis, lacus nisi hendrerit lorem, nec ultricies ligula justo et nunc. Aliquam quam elit, pharetra et nibh ac, sodales tincidunt nisi. 
